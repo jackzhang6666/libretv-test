@@ -1,0 +1,11 @@
+{
+  "name": "测试订阅 09 - 旅游频道",
+  "version": 2,
+  "sources": [],
+  "liveSources": [
+    {
+      "name": "09：旅游频道",
+      "url": "https://iptv-org.github.io/iptv/categories/travel.m3u"
+    }
+  ]
+}
