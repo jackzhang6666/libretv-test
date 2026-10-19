@@ -1,0 +1,47 @@
+{
+  "name": "LibreTV 测试订阅合集（10 个公开 IPTV 列表候选）",
+  "version": 2,
+  "sources": [],
+  "liveSources": [
+    {
+      "name": "01 - 全部公开频道",
+      "url": "https://iptv-org.github.io/iptv/index.m3u"
+    },
+    {
+      "name": "02 - 按类别分类",
+      "url": "https://iptv-org.github.io/iptv/index.category.m3u"
+    },
+    {
+      "name": "03 - 按语言分类",
+      "url": "https://iptv-org.github.io/iptv/index.language.m3u"
+    },
+    {
+      "name": "04 - 按国家分类",
+      "url": "https://iptv-org.github.io/iptv/index.country.m3u"
+    },
+    {
+      "name": "05 - 新闻频道",
+      "url": "https://iptv-org.github.io/iptv/categories/news.m3u"
+    },
+    {
+      "name": "06 - 音乐频道",
+      "url": "https://iptv-org.github.io/iptv/categories/music.m3u"
+    },
+    {
+      "name": "07 - 科学频道",
+      "url": "https://iptv-org.github.io/iptv/categories/science.m3u"
+    },
+    {
+      "name": "08 - 纪录片频道",
+      "url": "https://iptv-org.github.io/iptv/categories/documentary.m3u"
+    },
+    {
+      "name": "09 - 旅游频道",
+      "url": "https://iptv-org.github.io/iptv/categories/travel.m3u"
+    },
+    {
+      "name": "10 - 教育频道",
+      "url": "https://iptv-org.github.io/iptv/categories/education.m3u"
+    }
+  ]
+}
