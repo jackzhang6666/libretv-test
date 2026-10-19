@@ -1,0 +1,11 @@
+{
+  "name": "测试订阅 08 - 纪录片频道",
+  "version": 2,
+  "sources": [],
+  "liveSources": [
+    {
+      "name": "08：纪录片频道",
+      "url": "https://iptv-org.github.io/iptv/categories/documentary.m3u"
+    }
+  ]
+}
