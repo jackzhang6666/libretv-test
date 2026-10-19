@@ -1,0 +1,11 @@
+{
+  "name": "测试订阅 03 - 按语言分类",
+  "version": 2,
+  "sources": [],
+  "liveSources": [
+    {
+      "name": "03：按语言分类",
+      "url": "https://iptv-org.github.io/iptv/index.language.m3u"
+    }
+  ]
+}
