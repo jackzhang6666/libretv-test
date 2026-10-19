@@ -1,0 +1,11 @@
+{
+  "name": "测试订阅 02 - 按类别分类",
+  "version": 2,
+  "sources": [],
+  "liveSources": [
+    {
+      "name": "02：按类别分类",
+      "url": "https://iptv-org.github.io/iptv/index.category.m3u"
+    }
+  ]
+}
