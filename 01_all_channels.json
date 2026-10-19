@@ -1,0 +1,11 @@
+{
+  "name": "测试订阅 01 - 全部公开频道",
+  "version": 2,
+  "sources": [],
+  "liveSources": [
+    {
+      "name": "01：全部公开频道",
+      "url": "https://iptv-org.github.io/iptv/index.m3u"
+    }
+  ]
+}
