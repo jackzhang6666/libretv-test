@@ -1,0 +1,11 @@
+{
+  "name": "测试订阅 04 - 按国家分类",
+  "version": 2,
+  "sources": [],
+  "liveSources": [
+    {
+      "name": "04：按国家分类",
+      "url": "https://iptv-org.github.io/iptv/index.country.m3u"
+    }
+  ]
+}
