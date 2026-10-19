@@ -1,0 +1,11 @@
+{
+  "name": "测试订阅 07 - 科学频道",
+  "version": 2,
+  "sources": [],
+  "liveSources": [
+    {
+      "name": "07：科学频道",
+      "url": "https://iptv-org.github.io/iptv/categories/science.m3u"
+    }
+  ]
+}
